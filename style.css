@@ -29,6 +29,7 @@
 
 #foto{
     padding: 15px;
+    background-color: blueviolet;
     border-style: solid;
     width: 279px;
     margin-left: 10px;
@@ -49,4 +50,20 @@
     position: relative;
     left: 450px;
     bottom: 280px;
+    text-align: center;
+}
+
+#nomefotosobre {
+    width: 99%;
+    height: 430px;
+    border-style: double;
+    border-width: 5px;
+    
+    
+}
+
+#infopessoais {
+    border-style: outset;
+    padding: 16px;
+    
 }
