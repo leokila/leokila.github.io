@@ -1,6 +1,12 @@
-<style>
+
       #jardel {
+        
+        
         border-radius: 255px;
+        position: relative;
+        left: -10px;
+        
+                
         
       }
       body {
@@ -8,5 +14,39 @@
         font-family: Verdana, Geneva, Tahoma, sans-serif;
       }
 
+#nome{
+    width: 288px;
+    font-size: 18px;
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    padding: 5px;
+    padding-left: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
 
-    </style>
+#foto{
+    padding: 15px;
+    border-style: solid;
+    width: 279px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#nomeefoto{
+    border-style: dotted;
+    width: 332px;
+    margin: 25px;
+    
+}
+
+#sobremim {
+    width: 500px;
+    border-style: dashed;
+    padding: 10px;
+    position: relative;
+    left: 450px;
+    bottom: 280px;
+}
